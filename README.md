@@ -8,7 +8,7 @@
 -Titulo: Tiempo en redes sociales vs Enfermedades mentales
 
 -Integrantes:
-  Juan Diego Cárdenas López
+  Juan Diego Cárdenas López /
   Juan David Ardila Flórez
 
 -Banner:
