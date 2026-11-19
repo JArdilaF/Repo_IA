@@ -12,4 +12,4 @@
   Juan David Ardila Flórez
 
 -Banner:
-  
+  <img src="">
