@@ -1,3 +1,5 @@
+-Titulo: Tiempo en redes sociales vs Enfermedades mentales
+
 -Video:
   https://youtu.be/P24_9i8FgN8
   
@@ -7,8 +9,6 @@
 
 -Datset:
   https://www.kaggle.com/datasets/harpartapsingh13/social-media-addiction-and-mental-wellbeing-dataset
-
--Titulo: Tiempo en redes sociales vs Enfermedades mentales
 
 -Integrantes:
   Juan Diego Cárdenas López /
