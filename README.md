@@ -1,3 +1,6 @@
+-Video:
+  https://youtu.be/P24_9i8FgN8
+  
 -Objetivo:
   Crear un modelo de IA que analice la relacion entre el tiempo medio que una persona pasa en redes sociales y las enfermedades mentales que pueda llegar a tener, además, tendra 
   en cuenta factores como la edad, tipo de trabajo, estado civil, plataforma principal, horas de uso del celular, etc.
